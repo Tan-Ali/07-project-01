@@ -10,6 +10,8 @@ Some tools needed in order to take this quiz includes a stable internet connecti
 Open trivia API - https://opentdb.com/api_config.php
 https://en.wikipedia.org/w/api.php
 
+![frontPage](Assets/img/frontPage.PNG)
+
 User will not need multiple installations. 
 
 
