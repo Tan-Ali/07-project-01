@@ -12,6 +12,10 @@ https://en.wikipedia.org/w/api.php
 
 ![frontPage](Assets/img/frontPage.PNG)
 
+![question](Assets/img/question.PNG)
+
+![answer](Assets/img/answer.PNG)
+
 User will not need multiple installations. 
 
 
